@@ -1,0 +1,62 @@
+firstName,lastName,movie,domestic,cost,paidType,dateRental,dateReturn,returned,latefee
+Amy,Buenrostro,Aladden,Yes,3,Credit Card,4/8/20,not yet,No,0
+Edwin,Chin-goon,A New Hope,Yes,3,Credit Card,4/9/20,not yet,No,0
+Angela,Chung,Ford Vs Ferrari,Yes,3,Credit Card,4/8/20,not yet,No,0
+Sree,Cheemalapati,Games of Thrones Season 1,Yes,6,Credit Card,3/10/20,not yet,No,0
+Wayne,Chin,Saving Private Ryan,Yes,3,Credit Card,4/5/20,not yet,No,0
+John,Clifford,Hobbs & Shaw,Yes,3,Credit Card,4/9/20,not yet,No,0
+Alisa,Dietz,Black Panther,Yes,3,Cash,4/1/20,not yet,No,0
+Pat,Duffek,AVENGER END GAME,Yes,3,Cash,4/10/20,not yet,No,0
+Espie,ladisla,Valkyrie,Yes,3,Cash,4/5/20,not yet,No,0
+Eugenia,Lui,Admiral,no,3,Cash,3/10/20,not yet,No,0
+Fiona,Yamamoto,Gods of Egypt,Yes,3,Credit Card,3/11/20,not yet,No,0
+Jeff,Ford,USS Indianapolis,Yes,3,Cash,4/1/20,not yet,No,0
+Erika,Gee,Warriors of the Rainbow,no,3,Credit Card,4/2/20,not yet,No,0
+Margaret,Choy,Jumanji Welcome to the Jungle,Yes,3,Cash,4/10/20,not yet,No,0
+Guneet,Singh,Miracles from Heaven,Yes,3,Cash,2/10/20,not yet,No,0
+Sharon,Huang,Civil War,Yes,3,Cash,4/1/20,not yet,No,0
+Katie,Ou,Spectre 007,Yes,3,Cash,3/10/20,not yet,No,0
+Kimberly,Bale,Beauty and the Beast,Yes,3,Cash,4/8/20,not yet,No,0
+Bert,Kong,Inferno,Yes,3,Cash,4/10/20,not yet,No,0
+Donald,Lau,Superman,Yes,3,Credit Card,4/10/20,not yet,No,0
+Donald,Lau,Jaws,Yes,3,Credit Card,4/10/20,not yet,No,0
+Florance,Lau,Return of the Jedi,Yes,3,Credit Card,4/10/20,not yet,No,0
+Margaret,Lau,StarTrek 2,Yes,3,Credit Card,4/10/20,not yet,No,0
+Jeff,Ford,Return of the Dragon,Yes,3,Credit Card,3/11.20,not yet, No,0
+Allison,Gore, Fist of Fury,Yes,3,Cash,3/3/20,not yet, No,0
+Erika,Gee,Xmen,Yes,3,Cash,4/10/20,not yet,No,0
+Katie, Ou,Parent Trap,Yes,3,Cash,4/12/20,not yet,No,0
+Katie, Ou,Midway,Yes,3,Cash,4/12/20,not yet,No,0
+Katie, Ou,Deep Blue Sea,Yes,3,Cash,4/12/20,not yet,No,0
+Amy,Buenrostro,New Hope,Yes,3,Credit Card,4/8/20,not yet,No,0
+Edwin,Chin-goon,Last Jedi,Yes,3,Credit Card,4/9/20,not yet,No,0
+Angela,Chung,Batman,Yes,3,Credit Card,4/8/20,not yet,No,0
+Sree,Cheemalapati,Games of Thrones Season 2,Yes,6,Credit Card,3/10/20,not yet,No,0
+Sree,Cheemalapati,Games of Thrones Season 3,Yes,6,Credit Card,3/10/20,not yet,No,0
+Sree,Cheemalapati,Games of Thrones Season 4,Yes,6,Credit Card,3/10/20,not yet,No,0
+Wayne,Chin,When We were Soliders,Yes,3,Credit Card,4/5/20,not yet,No,0
+John,Clifford,Hobbs & Shaw,Yes,3,Credit Card,4/9/20,not yet,No,0
+Alisa,Dietz,Parent Trap,,Yes,3,Cash,4/1/20,not yet,No,0
+Pat,Duffek,Parent Trap,,Yes,3,Cash,4/10/20,not yet,No,0
+Espie,ladisla,Midway,Yes,3,Cash,4/5/20,not yet,No,0
+Eugenia,Lui,Eternally Zero,no,3,Cash,3/10/20,not yet,No,0
+Fiona,Yamamoto,White House Down,Yes,3,Credit Card,3/11/20,not yet,No,0
+Jeff,Ford,USS Indianapolis,Yes,3,Cash,4/1/20,not yet,No,0
+Erika,Gee,Warriors of the Rainbow,no,3,Credit Card,4/2/20,not yet,No,0
+Margaret,Choy,Jumanji Welcome to the Jungle,Yes,3,Cash,4/10/20,not yet,No,0
+Guneet,Singh,Miracles from Heaven,Yes,3,Cash,2/10/20,not yet,No,0
+Sharon,Huang,Civil War,Yes,3,Cash,4/1/20,not yet,No,0
+Katie,Ou,Spectre 007,Yes,3,Cash,3/10/20,not yet,No,0
+Kimberly,Bale,Beauty and the Beast,Yes,3,Cash,4/8/20,not yet,No,0
+Bert,Kong,Alien 1,Yes,3,Cash,4/10/20,not yet,No,0
+Donald,Lau,Dark Night,Yes,3,Credit Card,4/10/20,not yet,No,0
+Donald,Lau,Enter the Dragon,Yes,3,Credit Card,4/10/20,not yet,No,0
+Florance,Lau,Return of the Jedi,Yes,3,Credit Card,4/10/20,not yet,No,0
+Margaret,Lau,Phantom,Yes,3,Credit Card,4/10/20,not yet,No,0
+Jeff,Ford,Big Boss,Yes,3,Credit Card,3/11.20,not yet, No,0
+Williom,Fong, Fist of Fury,Yes,3,Cash,3/3/20,not yet, No,0
+Bilie,Gee,Xmen,Yes,3,Cash,4/10/20,not yet,No,0
+Jenny, Ou,Parent Trap 2,Yes,3,Cash,4/12/20,not yet,No,0
+Jimmy, Ou,TankBattle,Yes,3,Cash,4/12/20,not yet,No,0
+Tom, Ou,Alone in the Dark,Yes,3,Cash,4/12/20,not yet,No,0
+
